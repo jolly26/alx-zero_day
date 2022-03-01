@@ -1,2 +1,2 @@
 My first readme
-This is uodated read me
+This is updated read me
